@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZamianaZdjecNaOcene</string>
+    <string name="next">Następne</string>
+    <string name="prev">Poprzednie</string>
+    <string name="use">Użyj</string>
+    <string name="vis">Widoczność</string>
+    <string name="wartosc">Wprowadź wartość 0-255</string>
+</resources>
